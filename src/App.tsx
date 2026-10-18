@@ -35,8 +35,8 @@ const DEFAULT_CONFIG: SimpleConfig = {
   telegramShareUrl: 'https://t.me/addlist/-7nJq2JudL8yNTQ9
 ',
   telegramShareText: 'Join our community on Telegram & Facebook!',
-  facebookJoinUrl: 'https://www.facebook.com/groups/community',
-  facebookShareUrl: 'https://www.facebook.com/sharer/sharer.php',
+  facebookJoinUrl: 'https://www.facebook.com/groups',
+  facebookShareUrl: 'https://www.youtube.com/',
   facebookShareQuote: 'Join our community!',
 };
 
