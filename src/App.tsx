@@ -30,8 +30,10 @@ interface SimpleConfig {
 const DEFAULT_CONFIG: SimpleConfig = {
   communityName: 'Our Community',
   description: 'Welcome! Join our official channels or share them with your friends.',
-  telegramJoinUrl: 'https://t.me/telegram',
-  telegramShareUrl: 'https://t.me/share/url',
+  telegramJoinUrl: 'https://t.me/final_hub_bot?startapp
+',
+  telegramShareUrl: 'https://t.me/addlist/-7nJq2JudL8yNTQ9
+',
   telegramShareText: 'Join our community on Telegram & Facebook!',
   facebookJoinUrl: 'https://www.facebook.com/groups/community',
   facebookShareUrl: 'https://www.facebook.com/sharer/sharer.php',
