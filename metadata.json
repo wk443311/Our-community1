@@ -1,0 +1,6 @@
+{
+  "name": "CommUnity Connect",
+  "description": "Instant community hub with 1-click Telegram and Facebook buttons to join groups and share with friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
