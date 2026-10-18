@@ -18,10 +18,12 @@ export const COMMUNITY_CONFIG = {
   description: 'Welcome! Access our official bots, channels, and social pages below.',
 
   // 👉 ১. [বাটন ১] Telegram Bot Link (টেলিগ্রাম বটের লিংক)
-  telegramBotUrl: 'https://t.me/your_telegram_bot',
+  telegramBotUrl: 'https://t.me/final_hub_bot?startapp
+',
 
   // 👉 ২. [বাটন ২] Telegram Channel Link (টেলিগ্রাম চ্যানেলের লিংক)
-  telegramChannelUrl: 'https://t.me/your_telegram_channel',
+  telegramChannelUrl: 'https://t.me/addlist/-7nJq2JudL8yNTQ9
+',
 
   // 👉 ৩. [বাটন ৩] Follow Facebook For More Update (ফেসবুক পেইজ/প্রোফাইল ফলো করার লিংক)
   facebookFollowUrl: 'https://www.facebook.com/your_page_or_profile',
