@@ -26,10 +26,10 @@ export const COMMUNITY_CONFIG = {
 ',
 
   // 👉 ৩. [বাটন ৩] Follow Facebook For More Update (ফেসবুক পেইজ/প্রোফাইল ফলো করার লিংক)
-  facebookFollowUrl: 'https://www.facebook.com/your_page_or_profile',
+  facebookFollowUrl: 'https://www.facebook.com/profile.php?id=61594788757116',
 
   // 👉 ৪. [বাটন ৪] Facebook Link (ফেসবুক গ্রুপ বা মূল লিংক)
-  facebookLinkUrl: 'https://www.facebook.com/groups/your_group_or_page',
+  facebookLinkUrl: 'https://www.facebook.com/profile.php?id=61594788757116',
 };
 // ============================================================================
 
