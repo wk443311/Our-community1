@@ -24,7 +24,7 @@ export const COMMUNITY_CONFIG = {
   telegramChannelUrl: 'https://t.me/addlist/-7nJq2JudL8yNTQ9',
 
   // 👉 ৩. [বাটন ৩] Follow Facebook For More Update (ফেসবুক পেইজ/প্রোফাইল ফলো করার লিংক)
-  facebookFollowUrl: 'https://www.facebook.com/profile.php?id=61594788757116',
+  facebookFollowUrl: 'https://www.facebook.com/share/18kSFNijaF/',
 
   // 👉 ৪. [বাটন ৪] Facebook Link (ফেসবুক গ্রুপ বা মূল লিংক)
   facebookLinkUrl: 'https://www.facebook.com/profile.php?id=61595581855728',
