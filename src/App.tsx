@@ -27,7 +27,7 @@ export const COMMUNITY_CONFIG = {
   facebookFollowUrl: 'https://www.facebook.com/profile.php?id=61594788757116',
 
   // 👉 ৪. [বাটন ৪] Facebook Link (ফেসবুক গ্রুপ বা মূল লিংক)
-  facebookLinkUrl: 'https://www.facebook.com/profile.php?id=61594788757116',
+  facebookLinkUrl: 'https://www.facebook.com/profile.php?id=61595581855728',
 };
 // ============================================================================
 
